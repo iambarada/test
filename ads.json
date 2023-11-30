@@ -1,1 +1,18 @@
-{}
+{
+    "GluuFlexTest": {
+        "projectName": "GluuFlexTest",
+        "description": "Test",
+        "type": "community",
+        "author": "iambarada",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/iambarada/test",
+        "githubUri": "https://github.com/iambarada/test",
+        "license": "apache-2.0",
+        "lastUpdated": "1701347762651",
+        "tags": [
+            "Flex"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
